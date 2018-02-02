@@ -148,8 +148,7 @@ class ViewController: UIViewController {
         imageCard.image = UIImage(named: (currentCard?.name)!)
         
     }
-    
-    
+    //test
    
     func updatePoints(){
         points = points + 1
