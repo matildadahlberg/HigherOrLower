@@ -1,0 +1,10 @@
+/* 
+ Localizable.strings
+ HigherLower
+ 
+ Created by Matilda Dahlberg on 2018-02-08.
+ Copyright © 2018 Matilda Dahlberg. All rights reserved.
+ */
+
+
+"text_page" = "Can you guess if the next card is higher or lower than the current card shown on the screen?";
